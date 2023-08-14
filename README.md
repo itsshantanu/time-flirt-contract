@@ -73,7 +73,7 @@ Test
 Deploy on any network
 
 ```bash
-  node scripts/deploy.js --network network_name
+  npx scripts/deploy.js --network network_name
 ```
 
 Verify Contract
